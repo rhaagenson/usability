@@ -1,6 +1,6 @@
 # Usability 101 Website
 
-Built using HTML and Twitter Bootstrap 3.
+Built using HTML5 and Twitter Bootstrap 3.
 
 ## Design Preview 
 
